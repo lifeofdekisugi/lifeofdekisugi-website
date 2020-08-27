@@ -40,16 +40,13 @@ paginate     = 10
     url  = "https://discord.gg/FCPuYQg"
 [[params.social]]
     name = "github"
-    url  = "https://github.com/shahirislam"
+    url  = "https://github.com/Hdekisugi"
 [[params.social]]
     name = "gitlab"
-    url  = "https://gitlab.com/"
+    url  = "https://gitlab.com/Hdekisugi"
 [[params.social]]
     name = "facebook"
     url  = "https://facebook.com/mr.grayhathacker"
-[[params.social]]
-    name = "instagram"
-    url  = "https://instagram.com/"
 [[params.social]]
     name = "codechef"
     url  = "#"
@@ -58,7 +55,7 @@ paginate     = 10
 [languages]
   [languages.en]
     title = "Life Of Dekisugi"
-    subtitle = "A simple theme for Hugo"
+    subtitle = "Learn Hcking and Live Life"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
