@@ -6,8 +6,8 @@ description = "Bounty Hacker - TryHackMe Writeup"
 featuredalt = "" 
 featuredpath = "date" 
 linktitle = "" 
-title = "PickleRick TryHackMe Writeup" 
-slug = "PickleRick TryHackMe Writeup" 
+title = "Bounty Hacker - TryHackMe Writeup" 
+slug = "Bounty Hacker - TryHackMe Writeup" 
 type = "post" 
 +++
 
