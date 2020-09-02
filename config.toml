@@ -53,6 +53,12 @@ paginate     = 10
 {{< image src="https://www.hackthebox.eu/badge/image/355866" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
 
 
+
+
+  name = "HackTheBox"
+  url = "https://www.hackthebox.eu/badge/image/355866"
+
+
 [languages]
   [languages.en]
     title = "Life Of Dekisugi"
