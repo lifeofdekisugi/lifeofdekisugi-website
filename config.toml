@@ -50,6 +50,7 @@ paginate     = 10
 [[params.social]]
     name = "codechef"
     url  = "#"
+{{< image src="https://www.hackthebox.eu/badge/image/355866" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
 
 
 [languages]
