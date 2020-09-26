@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://lifeofdekisugi.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "my-theme"
@@ -34,7 +34,7 @@ paginate     = 10
 
 [[params.social]]
     name = "email"
-    url  = "amijim420@gmail.com"
+    url  = "lifeofdekisugi@gmail.com"
 [[params.social]]
     name = "discord"
     url  = "https://discord.gg/FCPuYQg"
@@ -45,11 +45,11 @@ paginate     = 10
     name = "gitlab"
     url  = "https://gitlab.com/Hdekisugi"
 [[params.social]]
-    name = "facebook"
-    url  = "https://facebook.com/mr.grayhathacker"
-[[params.social]]
   name = "twitter"
   url = "https://twitter.com/lifeofdekisugi"
+[[params.social]]
+    name = "facebook"
+    url  = "https://facebook.com/mr.grayhathacker"
 
 
 [languages]
