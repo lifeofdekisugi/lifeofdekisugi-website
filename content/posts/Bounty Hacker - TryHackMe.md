@@ -14,7 +14,7 @@ type = "post"
 
 
 
-![Bounty Hacker - TryHackMe](https://r-bch.fr/content/images/size/w2000/2020/07/9ad38a2cc31d6ae0030c888aca7fe646.jpeg)
+![Bounty Hacker - TryHackMe](https://github.com/Hdekisugi/lifeofdekisugi/blob/master/static/image/bounty_hacker.jpeg)
 
 
 
