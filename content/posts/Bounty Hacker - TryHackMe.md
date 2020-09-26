@@ -14,8 +14,8 @@ type = "post"
 
 
 
-![Bounty Hacker - TryHackMe](https://github.com/Hdekisugi/lifeofdekisugi/blob/master/static/image/bounty_hacker.jpeg)
-
+<img src="https://github.com/Hdekisugi/lifeofdekisugi/blob/master/static/image/bounty_hacker.jpeg"
+     alt="Bounty Hacker - TryHackMe">
 
 
 Welcome to my WriteUp. Ok So our journy starts from question 3 but before every question we need to enumerate the mechine. So Let's do it with **nmap**
