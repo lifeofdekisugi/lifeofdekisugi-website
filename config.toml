@@ -48,12 +48,8 @@ paginate     = 10
     name = "facebook"
     url  = "https://facebook.com/mr.grayhathacker"
 [[params.social]]
-    name = "codechef"
-    url  = "#"
-
-[[params.social]]
-  name = "HackTheBox"
-  url = "https://www.hackthebox.eu/badge/image/355866"
+  name = "twitter"
+  url = "https://twitter.com/lifeofdekisugi"
 
 
 [languages]
