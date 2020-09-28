@@ -13,7 +13,7 @@ type = "post"
 
 
 
-![Bounty Hacker TryHackMe](https://github.com/Hdekisugi/lifeofdekisugi/blob/master/static/image/bounty_hacker.jpeg)
+![Bounty Hacker TryHackMe](https://miro.medium.com/max/700/0*7ThVvRXq2GhU54Do.jpeg)
 
 
 
