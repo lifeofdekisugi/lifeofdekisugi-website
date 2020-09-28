@@ -11,9 +11,9 @@ slug = "Bounty Hacker - TryHackMe Writeup"
 type = "post" 
 +++
 
-```html
-  <img src="https://github.com/Hdekisugi/lifeofdekisugi/blob/master/static/image/bounty_hacker.jpeg">
-```
+
+
+![Bounty Hacker TryHackMe](https://github.com/Hdekisugi/lifeofdekisugi/blob/master/static/image/bounty_hacker.jpeg)
 
 
 
