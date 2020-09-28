@@ -13,9 +13,7 @@ type = "post"
 
 
 
-
-[![Bounty Hacker - TryHackMe](bounty_hacker.jpeg)](https://tryhackme.com/room/cowboyhacker)
-
+![](static/image/bounty_hacker.jpeg)
 
 Welcome to my WriteUp. Ok So our journy starts from question 3 but before every question we need to enumerate the mechine. So Let's do it with **nmap**
 
