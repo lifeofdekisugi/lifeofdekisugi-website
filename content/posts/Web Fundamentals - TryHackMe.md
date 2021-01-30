@@ -23,7 +23,7 @@ Welcome to Web Fundamentals TryHackMe Write Up.
 
 ## Task 2 - HOW DO WE LOAD WEBSITES?
 
-** Things you shoould remember from here **
+**Things you shoould remember from here**
 
 ```
 1. HTTP runs on port 80
@@ -33,28 +33,33 @@ Welcome to Web Fundamentals TryHackMe Write Up.
 4. GET = When we need something from web server.
 5. POST = When we send something to web server.
 	
-*Extra : The actual content of the web page is normally a combination of HTML, CSS and JavaScript. HTML defines the structure of the page, and the content. CSS allows you to change how the page looks and make it look fancy. JavaScript is a programming language that runs in the browser and allows you to make pages interactive or load extra content.*
+Extra : The actual content of the web page is normally a combination of HTML, CSS and JavaScript.
+HTML defines the structure of the page, and the content. CSS allows you to change how the page looks 
+and make it look fancy. JavaScript is a programming language that runs in the browser and allows you 
+to make pages interactive or load extra content.
 	
 ```
 
-*Question 1 :* What request verb is used to retrieve page content?
+
+**Question 1 : What request verb is used to retrieve page content?**
 
 Hint : When we want soomething from server.
 
-*Question 2 :* What port do web servers normally listen on?
+**Question 2 : What port do web servers normally listen on?**
 
 Hint : Normally webservers run on HTTP.
 
-*Question 3 :* What's responsible for making websites look fancy ?
+***Question 3 : What's responsible for making websites look fancy ?**
  
 Hint : Read Extra carefully. 
+
 
 
 
 ## Task 3 - MORE HTTP - VERBS AND REQUESTS FORMATS
 
 
-** Things you shoould remember from here **
+**Things you shoould remember from here**
 
 ```
 1. For GET requests, a body is allowed but will mostly be ignored by the server.
@@ -65,23 +70,24 @@ Web Response : https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 ```
 
 
-*Question 1 :*  What verb would be used for a login? 
+
+**Question 1 :  What verb would be used for a login?**
  
 Hint : We sending our data to web server.
 
-*Question 2 :* What verb would be used to see your bank balance once you're logged in? 
+**Question 2 : What verb would be used to see your bank balance once you're logged in?**
  
 Hint : We want our balance from bank web server.
 
-*Question 3 :* Does the body of a GET request matter? Yea/Nay
+**Question 3 : Does the body of a GET request matter? Yea/Nay**
  
 Hint : It's on your remember list of this task.
 
-*Question 4 :* What's the status code for "I'm a teapot"?
+**Question 4 : What's the status code for "I'm a teapot"?**
  
 Hint : Learn Web Responses thorowly.
 
-*Question 5 :* What status code will you get if you need to authenticate to access some content, and you're unauthenticated?
+**Question 5 : What status code will you get if you need to authenticate to access some content, and you're unauthenticated?**
  
 Hint : What is the status code of Unauthorized ?
 
@@ -90,7 +96,7 @@ Hint : What is the status code of Unauthorized ?
 
 ## Task 4 - Cookies, tasty!
 
-** Please Read the task discription you will understad everything from there. **
+**Please Read the task discription you will understad everything from there.**
 
 *No Answer Needed*
 
