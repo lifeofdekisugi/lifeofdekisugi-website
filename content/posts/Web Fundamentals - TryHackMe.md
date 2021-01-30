@@ -1,6 +1,6 @@
 +++ 
 categories = ["Hugo"] 
-date = "2020-08-27" 
+date = "2021-01-31" 
 description = "Web Fundamentals - TryHackMe Writeup"
 
 featuredalt = "" 
@@ -140,7 +140,7 @@ How to check your cookies ?
 Answer : Browser developer tools/Inspect element --> Storeg --> Cookies
 ```
 
-**Question 4 : What's the "Set a cookie" flag?
+**Question 4 : What's the "Set a cookie" flag?**
 
 Hint : Go to the URL {IP:8081/ctf/sendcookie} go to cookies you will see a + icon there click the icon and create a new cookie name of the cookie will be *flagpls* and value also *flagpls*. After typing press Enter and reload the page. 
 
