@@ -1,6 +1,6 @@
 +++ 
 categories = ["Hugo"] 
-date = "2021-01-31" 
+date = "2020-12-31" 
 description = "Web Fundamentals - TryHackMe Writeup"
 
 featuredalt = "" 
