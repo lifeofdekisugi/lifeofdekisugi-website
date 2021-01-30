@@ -21,9 +21,12 @@ Welcome to Web Fundamentals TryHackMe Write Up.
 ## Task 1 - INTRODUCTION AND OBJECTIVES
 
 
+**NO ANSWER NEEDED**
+
+
 ## Task 2 - HOW DO WE LOAD WEBSITES?
 
-**Things you shoould remember from here**
+**Things you shoould remember from here.**
 
 ```
 1. HTTP runs on port 80
@@ -49,7 +52,7 @@ Hint : When we want soomething from server.
 
 Hint : Normally webservers run on HTTP.
 
-***Question 3 : What's responsible for making websites look fancy ?**
+**Question 3 : What's responsible for making websites look fancy ?**
  
 Hint : Read Extra carefully. 
 
@@ -59,7 +62,7 @@ Hint : Read Extra carefully.
 ## Task 3 - MORE HTTP - VERBS AND REQUESTS FORMATS
 
 
-**Things you shoould remember from here**
+**Things you shoould remember from here.**
 
 ```
 1. For GET requests, a body is allowed but will mostly be ignored by the server.
@@ -101,15 +104,14 @@ Hint : What is the status code of Unauthorized ?
 *No Answer Needed*
 
 
-#Task 5 - MINI CTF
+## Task 5 - MINI CTF
 
-** Things you shoould remember from here **
+**Things you shoould remember from here.**
 
 ```
+
 1. You can make web requests from your terminal/cmd using *curl*
 2. If you use curl *http://tryhackme.com* it will send a GET request by default you can change the request type using *-X POST* remember *-X* is request type changing paramiter.
-3. 
-
 
 ```
 
@@ -121,15 +123,15 @@ Hint : What is the status code of Unauthorized ?
     Set a cookie. Set a cookie with name "flagpls" and value "flagpls" in your devtools (or with curl!) and make a GET request to /ctf/sendcookie
     
 
-*Question 1 :* What's the GET flag?
+**Question 1 : What's the GET flag?**
 
 Hint : Send a get request from terminal. Exm:{curl IP:8081/ctf/get}
 
-*Question 2 :* What's the POST flag?
+**Question 2 : What's the POST flag?**
 
-Hint : To get the post flag you have to send a post request with a body. To write a body you need to spacify --data  Exm:{curl -X **** IP:8081/ctf/post --data "flag_please"} 
+Hint : To get the post flag you have to send a post request with a body. To write a body you need to spacify --data  Exm:{curl -X POST IP:8081/ctf/post --data "flag_please"} 
 
-*Question 3 :* What's the "Get a cookie" flag?
+**Question 3 : What's the "Get a cookie" flag?**
 
 Hint : Go to the URL {IP:8081/ctf/getcookie} and check your cookies. 
 
@@ -138,7 +140,7 @@ How to check your cookies ?
 Answer : Browser developer tools/Inspect element --> Storeg --> Cookies
 ```
 
-*Question 4 :* What's the "Set a cookie" flag?
+**Question 4 : What's the "Set a cookie" flag?
 
 Hint : Go to the URL {IP:8081/ctf/sendcookie} go to cookies you will see a + icon there click the icon and create a new cookie name of the cookie will be *flagpls* and value also *flagpls*. After typing press Enter and reload the page. 
 
