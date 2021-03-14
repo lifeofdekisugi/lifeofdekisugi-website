@@ -40,7 +40,7 @@ paginate     = 10
     url  = "https://discord.gg/FCPuYQg"
 [[params.social]]
     name = "github"
-    url  = "https://github.com/Hdekisugi"
+    url  = "https://github.com/lifeofdekisugi"
 [[params.social]]
     name = "gitlab"
     url  = "https://gitlab.com/Hdekisugi"
