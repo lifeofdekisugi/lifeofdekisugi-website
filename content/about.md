@@ -6,7 +6,7 @@ aliases = ["about-us","contact"]
   name = "Hidetoshi Dekisugi"
 +++
 
-Hello I am **Hidetoshi Dekisugi.** I'm a Cyber Security learner and penetration tester.
+Hello I am **SHAHIR ISLAM** AKA **DEKISUGI/lifeofdekisugi** I'm a Cyber Security learner.
 
 ```
 	More info cooming soon
@@ -16,4 +16,4 @@ Hello I am **Hidetoshi Dekisugi.** I'm a Cyber Security learner and penetration 
 	More info cooming soon
 ```
 
-Learn more and contribute on [GitHub](https://github.com/Hdekisugi).
+Learn more and contribute on [GitHub](https://github.com/lifeofdekisugi).
