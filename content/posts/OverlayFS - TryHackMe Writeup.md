@@ -31,6 +31,9 @@ https://ssd-disclosure.com/ssd-advisory-overlayfs-pe/
 https://github.com/briskets/CVE-2021-3493
 
 
+Ok so after knowing what all this about now we can dirty our hands on it.
+
+
 SSH creds :
 
 ```
@@ -56,3 +59,7 @@ tada Run `whoami` in the terminal and magic now you are root
 ```
 Root flag is too close to root :)
 ```
+
+After completing this room don't forget to thanks **[NinjaJc01](https://twitter.com/NinjaJc01)** creator of this room.
+
+#happyhacking #tryhackme
