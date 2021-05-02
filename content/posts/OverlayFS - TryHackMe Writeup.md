@@ -11,9 +11,10 @@ slug = "OverlayFS - TryHackMe Writeup"
 type = "post"
 +++
 
+![OverlayFS TryHackMe](https://images.unsplash.com/photo-1569235186275-626cb53b83ce?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=752&q=80)
 
 
-![OverlayFS TryHackMe](https://unsplash.com/photos/Q9y3LRuuxmg)
+
 
 
 
@@ -39,7 +40,7 @@ Password: tryhackme123
 ```
 
 
-Get the `exploit.c` from github or here --> [https://ssd-disclosure.com/ssd-advisory-overlayfs-pe/]
+Get the `exploit.c` from github or here [https://ssd-disclosure.com/ssd-advisory-overlayfs-pe/]
 
 Get the exploit file to SSH mechine and compile it.
 
