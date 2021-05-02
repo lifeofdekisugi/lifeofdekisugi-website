@@ -43,7 +43,7 @@ Password: tryhackme123
 ```
 
 
-Get the `exploit.c` from github or here [https://ssd-disclosure.com/ssd-advisory-overlayfs-pe/]
+Get the `exploit.c` from github or [here](https://ssd-disclosure.com/ssd-advisory-overlayfs-pe/)
 
 Get the exploit file to SSH mechine and compile it.
 
