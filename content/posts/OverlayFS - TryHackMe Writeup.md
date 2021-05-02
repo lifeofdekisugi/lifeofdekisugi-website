@@ -13,18 +13,20 @@ type = "post"
 
 
 
-![Bounty Hacker TryHackMe](static/image/OverlayFS.png)
+![OverlayFS TryHackMe](https://unsplash.com/photos/Q9y3LRuuxmg)
 
 
 
-##OverlayFS - CVE-2021-3493
+## OverlayFS - CVE-2021-3493
 
 
 Welcome to OverlayFS AKA CVE-2021-3493. I'm learning how to writeup so please pardon my mistakes.
 Let's be honest this room dosen't need any writeup but don't know why I made it haha and Let's kick things of with some recources to know what is this CVE about.
 
 https://ubuntu.com/security/CVE-2021-3493
+
 https://ssd-disclosure.com/ssd-advisory-overlayfs-pe/
+
 https://github.com/briskets/CVE-2021-3493
 
 
